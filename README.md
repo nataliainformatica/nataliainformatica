@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Natalí</h1>
-<h3 align="center">profe de informática</h3>
+<h1 align="center">Holaaaaaa 👋 </h1>
+<h3 align="center">¿Qué hay aquí?</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">solo código  y prácticas</h3>
 <p align="left">
 </p>
 
