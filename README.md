@@ -1,8 +1,8 @@
 
-<h1 align="center">Holaaaaaa 👋 </h1>
-<h3 align="center">¿Qué hay aquí?</h3>
+<h1 align="center">Hola 👋 </h1>
+<h3 align="center">¿?</h3>
 
-<h3 align="left">solo código  y prácticas</h3>
+<h3 align="left">Repositorio</h3>
 <p align="left">
 </p>
 
