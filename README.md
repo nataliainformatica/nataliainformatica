@@ -9,7 +9,7 @@
         algún contenido interesante, pero sobre todo ejercicios y pequeños proyectos.
     </p>
     <p>
-        Si eres alumn@ mío, siéntete libre de explorar, clonar y preguntar lo que necesites.
+        Si eres "uno de los nuestros" siéntete libre de explorar, clonar y preguntar lo que necesites.
         Y si has llegado aquí por casualidad, ¡bienvenid@ también!
     </p>
     <p>
