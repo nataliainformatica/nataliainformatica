@@ -15,15 +15,12 @@
     <p>
         <a href="https://github.com/nataliainformatica" target="_blank">Visita mi repositorio</a>
     </p>
-
     <p>✨ <strong>Dedicatoria a quienes comparten su código</strong>
     </p>
-
 <p>
 A todas las personas que comparten su código, ideas y soluciones en GitHub y en otros rincones de Internet:
 <strong>gracias por vuestra generosidad y por ayudar a que aprendamos cada día un poco más.</strong>
 </p>
-
 <p>
 Este repositorio existe y crece gracias a lo mucho que he aprendido de otros,
 de sus líneas de código, de sus ideas y de su tiempo.
