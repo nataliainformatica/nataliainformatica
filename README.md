@@ -12,7 +12,7 @@ Si eres alumno/a mío, siéntete libre de explorar, clonar y preguntar lo que ne
 Y si has llegado aquí por casualidad, ¡bienvenido también!
         </p>
       
-        <a href="https://github.com/TUUSUARIO" target="_blank">Visita mi repositorio</a>
+      <p>  <a href="https://github.com/nataliainformatica" target="_blank">Visita mi repositorio</a></p>
     </div>
 </body>
 </html>
