@@ -9,10 +9,30 @@
         algún contenido interesante, pero sobre todo ejercicios y pequeños proyectos.
     </p>
     <p>
-        Si eres alumno/a mío, siéntete libre de explorar, clonar y preguntar lo que necesites.
-        Y si has llegado aquí por casualidad, ¡bienvenido también!
+        Si eres alumn@ mío, siéntete libre de explorar, clonar y preguntar lo que necesites.
+        Y si has llegado aquí por casualidad, ¡bienvenid@ también!
     </p>
+
+    
     <p><a href="https://github.com/nataliainformatica" target="_blank">Visita mi repositorio</a></p>
+
+    <p>✨ <strong>Dedicatoria a quienes comparten su código</strong></p>
+
+<p>
+A todas las personas que comparten su código, ideas y soluciones en GitHub y en otros rincones de Internet:
+<strong>gracias por vuestra generosidad y por ayudar a que aprendamos cada día un poco más.</strong>
+</p>
+
+<p>
+Este repositorio existe y crece gracias a lo mucho que he aprendido de otros,
+de sus líneas de código, de sus ideas y de su tiempo.
+Aí que recuerda: úsalo como quieras siempre que respetes su licencia CC
+</p>
+
+<p>
+<strong>Gracias por compartir. 🌱</strong>
+</p>
+
 </div>
 </body>
 </html>
