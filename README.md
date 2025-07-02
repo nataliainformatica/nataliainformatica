@@ -12,9 +12,8 @@
         Si eres alumn@ mío, siéntete libre de explorar, clonar y preguntar lo que necesites.
         Y si has llegado aquí por casualidad, ¡bienvenid@ también!
     </p>
-
-    
-    <p><a href="https://github.com/nataliainformatica" target="_blank">Visita mi repositorio</a></p>
+    <p>
+        <a href="https://github.com/nataliainformatica" target="_blank">Visita mi repositorio</a></p>
 
     <p>✨ <strong>Dedicatoria a quienes comparten su código</strong></p>
 
