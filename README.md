@@ -17,13 +17,15 @@ Y si has llegado aquí por casualidad, ¡bienvenido también!
 </body>
 </html>
 
-<h2 align="left">Tecnologías, lenguajes y herramientas:</h2>
-<h3 align="left">🏁✨🚗💨 POLE POSITION 💨🚗✨🏁</h3>
+<h2 ">Tecnologías, lenguajes y herramientas:</h2>
+<h3 ">🏁✨🚗💨 POLE POSITION 💨🚗✨🏁</h3>
 <p>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
 </p>
+<p>
+🥈  🥉    en parrilla 🏎️🏎️🏎️🏎️🏎️🏎️🏎️🏎️🏎️  </p>
 
 <p>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -53,3 +55,5 @@ Y si has llegado aquí por casualidad, ¡bienvenido también!
 </p>
 
 [Mi gist en GitHub](https://gist.github.com/nataliainformatica/)
+
+
