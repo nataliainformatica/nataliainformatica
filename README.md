@@ -5,7 +5,7 @@
     <p>Soy profe de FP de Informática en grado medio y superior.</p>
     <p>Me encanta cacharrear con código y aprender cosas nuevas para traerlas al aula.</p>
     <p>
-        Este es mi repositorio personal, pero lo uso para compartir con mis alumnos lo que hacemos en clase, 
+        Este es mi repositorio personal, pero lo uso para compartir con mis alumn@s lo que hacemos en clase, 
         algún contenido interesante, pero sobre todo ejercicios y pequeños proyectos.
     </p>
     <p>
