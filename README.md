@@ -24,7 +24,9 @@ A todas las personas que comparten su código, ideas y soluciones en GitHub y en
 <p>
 Este repositorio existe y crece gracias a lo mucho que he aprendido de otros,
 de sus líneas de código, de sus ideas y de su tiempo.
-Aí que recuerda: úsalo como quieras siempre que respetes su licencia CC
+</p>
+    <p>
+Recuerda: úsalo como quieras siempre que respetes su licencia CC
 </p>
 
 <p>
