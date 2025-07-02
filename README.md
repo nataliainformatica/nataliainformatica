@@ -18,7 +18,7 @@
     <p>✨ <strong>Dedicatoria a quienes comparten su código</strong>
     </p>
 <p>
-A todas las personas que comparten su código, ideas y soluciones en GitHub y en otros rincones de Internet, y por los pasillos del instituto 😉:
+A todas las personas que comparten su código, ideas y soluciones en GitHub , en otros rincones de Internet y por los pasillos del instituto 😉:
 <strong>gracias por vuestra generosidad y por ayudar a que aprendamos cada día un poco más.</strong>
 </p>
 <p>
