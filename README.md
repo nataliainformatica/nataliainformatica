@@ -1,19 +1,19 @@
 
 <body>
-    <div class="container">
-        <h1>👋¡Hola!, soy Natalia</h1>
-        <p>
-           Soy profe de FP de Informática en grado medio y superior.
-Me encanta cacharrear con código y aprender cosas nuevas para traerlas al aula.
-
-Este es mi repositorio personal, pero lo uso para compartir con mis alumnos lo que hacemos en clase, algún contenido interesante, pero sobre todo ejercicios, y pequeños proyectos.
-
-Si eres alumno/a mío, siéntete libre de explorar, clonar y preguntar lo que necesites.
-Y si has llegado aquí por casualidad, ¡bienvenido también!
-        </p>
-      
-      <p>  <a href="https://github.com/nataliainformatica" target="_blank">Visita mi repositorio</a></p>
-    </div>
+<div class="container">
+    <h1>👋 ¡Hola!, soy Natalia</h1>
+    <p>Soy profe de FP de Informática en grado medio y superior.</p>
+    <p>Me encanta cacharrear con código y aprender cosas nuevas para traerlas al aula.</p>
+    <p>
+        Este es mi repositorio personal, pero lo uso para compartir con mis alumnos lo que hacemos en clase, 
+        algún contenido interesante, pero sobre todo ejercicios y pequeños proyectos.
+    </p>
+    <p>
+        Si eres alumno/a mío, siéntete libre de explorar, clonar y preguntar lo que necesites.
+        Y si has llegado aquí por casualidad, ¡bienvenido también!
+    </p>
+    <p><a href="https://github.com/nataliainformatica" target="_blank">Visita mi repositorio</a></p>
+</div>
 </body>
 </html>
 
