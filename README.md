@@ -1,7 +1,7 @@
 
 <body>
     <div class="container">
-        <h1>¡Hola!</h1>
+        <h1>👋¡Hola!, soy Natalia</h1>
         <p>
            Soy profe de FP de Informática en grado medio y superior.
 Me encanta cacharrear con código y aprender cosas nuevas para traerlas al aula.
@@ -11,9 +11,7 @@ Este es mi repositorio personal, pero lo uso para compartir con mis alumnos lo q
 Si eres alumno/a mío, siéntete libre de explorar, clonar y preguntar lo que necesites.
 Y si has llegado aquí por casualidad, ¡bienvenido también!
         </p>
-        <p>
-            Este es mi repositorio personal, donde comparto con mis alumnos información, código y materiales de clase para reforzar lo que trabajamos diariamente en el aula.
-        </p>
+      
         <a href="https://github.com/TUUSUARIO" target="_blank">Visita mi repositorio</a>
     </div>
 </body>
