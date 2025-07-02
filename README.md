@@ -13,9 +13,11 @@
         Y si has llegado aquí por casualidad, ¡bienvenid@ también!
     </p>
     <p>
-        <a href="https://github.com/nataliainformatica" target="_blank">Visita mi repositorio</a></p>
+        <a href="https://github.com/nataliainformatica" target="_blank">Visita mi repositorio</a>
+    </p>
 
-    <p>✨ <strong>Dedicatoria a quienes comparten su código</strong></p>
+    <p>✨ <strong>Dedicatoria a quienes comparten su código</strong>
+    </p>
 
 <p>
 A todas las personas que comparten su código, ideas y soluciones en GitHub y en otros rincones de Internet:
